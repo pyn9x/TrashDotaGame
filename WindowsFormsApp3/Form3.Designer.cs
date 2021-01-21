@@ -72,7 +72,7 @@ namespace WindowsFormsApp3
             this.Controls.Add(this.button1);
             this.DoubleBuffered = true;
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "MOM JUGER";
             this.ResumeLayout(false);
 
         }

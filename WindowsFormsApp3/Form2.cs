@@ -33,7 +33,10 @@ namespace WindowsFormsApp3
                 gold -= 4500;
             }
             else
+            {
+                sf1.Play();
                 label2.Text = "Добей крипа ";
+            }
             label1.Text = Convert.ToString(gold);
             label3.Text = Convert.ToString(countBf);
         }

@@ -93,7 +93,7 @@ namespace WindowsFormsApp3
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Main";
             this.ResumeLayout(false);
 
         }

@@ -127,5 +127,8 @@
   <ItemGroup>
     <None Include="Resources\Hand_of_Midas.mp3.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dotolog.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -67,7 +67,7 @@ namespace WindowsFormsApp3
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
             this.Name = "Form4";
-            this.Text = "Form4";
+            this.Text = "OSU FOR CHAJHAJ";
             this.Load += new System.EventHandler(this.Form4_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form4_Paint);
             this.ResumeLayout(false);

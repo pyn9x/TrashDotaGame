@@ -13,7 +13,7 @@ namespace WindowsFormsApp3
 {
     public partial class Form3 : Form
     {
-        SoundPlayer sf = new SoundPlayer(@"C:\Ara-Dota-MOMO-JUGGER.wav");
+        SoundPlayer sf = new SoundPlayer(Resource1.Ara_Dota_MOMO_JUGGER);
 
         public Form3()
         {

@@ -119,11 +119,13 @@
     <None Include="Resources\Iron_Branch_icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Ara-Dota-MOMO-JUGGER.wav" />
-    <Content Include="Resources\Battle_Fury.mp3.wav" />
-    <Content Include="Resources\coins.wav" />
-    <Content Include="Resources\Hand_of_Midas.mp3.wav" />
+    <None Include="Resources\Ara-Dota-MOMO-JUGGER.wav" />
+    <None Include="Resources\Battle_Fury.mp3.wav" />
+    <None Include="Resources\coins.wav" />
     <None Include="Resources\Spear_of_Mars_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hand_of_Midas.mp3.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

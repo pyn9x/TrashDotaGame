@@ -15,9 +15,9 @@ namespace WindowsFormsApp3
     {
         int gold = 0;
         int countBf = 0;
-        SoundPlayer sf = new SoundPlayer(@"C:\Hand_of_Midas.mp3.wav");
-        SoundPlayer sf1 = new SoundPlayer(@"C:\Battle_Fury.mp3.wav");
-        SoundPlayer sf3 = new SoundPlayer(@"C:\coins.wav");
+        SoundPlayer sf = new SoundPlayer(Resource1.Hand_of_Midas_mp3);
+        SoundPlayer sf1 = new SoundPlayer(Resource1.Battle_Fury_mp3);
+        SoundPlayer sf3 = new SoundPlayer(Resource1.coins);
         public Form2()
         {
             InitializeComponent();

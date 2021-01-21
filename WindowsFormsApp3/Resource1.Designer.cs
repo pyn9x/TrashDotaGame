@@ -69,5 +69,15 @@ namespace WindowsFormsApp3 {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Spear_of_Mars_icon {
+            get {
+                object obj = ResourceManager.GetObject("Spear_of_Mars_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

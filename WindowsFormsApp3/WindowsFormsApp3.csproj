@@ -123,6 +123,7 @@
     <Content Include="Resources\Battle_Fury.mp3.wav" />
     <Content Include="Resources\coins.wav" />
     <Content Include="Resources\Hand_of_Midas.mp3.wav" />
+    <None Include="Resources\Spear_of_Mars_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
